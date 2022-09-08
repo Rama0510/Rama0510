@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on extend the skills to improve webapps
-- 🌱 I’m currently learning new tech like java,salesforce
+- 🔭 I’m currently working on extend the skills to improve webapps and service course
+- 🌱 I’m currently learning new tech like  markdown from the webapps course.
+i'm looking to colladOrate with github experts
 - 💬 Ask me about anythng
 - 📫 How to reach me:ramadevi13567@gmail.com
 
